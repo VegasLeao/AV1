@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(file:///C:/Users/VIC0230965/Desktop/FRONT-END/simulado/img/tela%20de%20fundo.webp); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.fa {
+  font-size: 40px;  
+  margin: 0 30px;   
+}
+
+  
+  .navbar {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.8); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: 16px;
+  }
